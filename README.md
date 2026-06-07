@@ -1,6 +1,6 @@
 # 🌬️ Wind Generation Forecasting System
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://hematv09-energy-wind-forecast.streamlit.app)
+👉 **[Open Live App](https://energy-wind-forecast-1.onrender.com/)**
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-red.svg)](https://streamlit.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
